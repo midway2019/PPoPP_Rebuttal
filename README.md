@@ -1,4 +1,4 @@
 # PPoPP Rebuttal
 
 
-![image]([/CDF.pn](CDF_latency.png) 
+![image](CDF_latency.png) 
