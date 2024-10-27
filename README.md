@@ -1,8 +1,6 @@
 # PPoPP Rebuttal
 
-
-![image](CDF_latency.png) 
-<img src="CDF_latency.png" alt="图片描述" width="300"/>
+<img src="CDF_latency.png" alt="图片描述" width="500"/>
 
 **Fig. 1: CDF Latency compared of FaaSGNN, AWSGNN and DGL-serverless**
 
