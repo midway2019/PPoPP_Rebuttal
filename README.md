@@ -2,6 +2,8 @@
 
 
 ![image](CDF_latency.png) 
+<img src="https://example.com/image.jpg" alt="图片描述" width="300"/>
+
 **Fig. 1: CDF Latency compared of FaaSGNN, AWSGNN and DGL-serverless**
 
 ## Q4 for Review B
