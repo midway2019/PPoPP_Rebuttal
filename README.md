@@ -2,6 +2,7 @@
 
 
 ![image](CDF_latency.png) 
+**CDF Latency compared of FaaSGNN, AWSGNN and DGL-serverless**
 
 ## Q4 for Review B
 
